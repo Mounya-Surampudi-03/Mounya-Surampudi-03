@@ -65,4 +65,4 @@ Monitoring Jenkins up/downtime using:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounya-Surampudi-03&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounya-Surampudi-03&show_icons=true&theme=tokyonight)
