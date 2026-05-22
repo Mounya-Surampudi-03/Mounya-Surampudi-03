@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mounya Sree</h1>
 
-<!--
-**Mounya-Surampudi-03/Mounya-Surampudi-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AWS DevOps Engineer | Cloud Enthusiast | Automation Learner
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Learning AWS & DevOps
+- ☁️ Working on Cloud & Automation Projects
+- 💻 Skilled in Python, Linux, Git & AWS
+- 🔧 Interested in CI/CD & Infrastructure Automation
+
+---
+
+## 🛠 Skills
+
+- AWS
+- Linux
+- Git & GitHub
+- Jenkins
+- Bash Scripting
+- CloudWatch
+- SNS
+- EC2
+- S3
+- Elatic Block Storage
+- SQS
+- CloudFront
+- Elastic File System
+- Elastic Container Services
+- Elastic Kubernetes Services
+- Elastic Container Registry
+- AMI
+- Lambda
+- IAM
+- VPC
+- Network Interface
+- CloudFormation
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Jira
+- Slunk
+- Site Reliability Engineering
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 AWS Jenkins Monitoring System
+Monitoring Jenkins up/downtime using:
+- CloudWatch
+- SNS
+- Bash scripting
+- Cron jobs
+
+### 🔹 AWS Use Cases Portfolio
+25+ AWS real-time implementation projects.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounya-Surampudi-03&show_icons=true)
