@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mounya Sree</h1>
 
 <h3 align="center">
-AWS DevOps Engineer | Cloud Enthusiast | Automation Learner
+Programmer Analyst Trainee @ Cognizant | AWS Cloud & DevOps Domain | 
+CI/CD | Docker | Kubernetes | Terraform | Python | Linux| Cloud Enthusiast | Automation Learner
 </h3>
 
 ---
